@@ -1,0 +1,14 @@
+.bottle{
+    border: 2px solid seagreen;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.bottle img{
+
+    width: 200px;
+}
+.btn{
+    background-color: green;
+    color: white;
+}
